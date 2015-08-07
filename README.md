@@ -1,4 +1,8 @@
-# Facebook-page
-Creating and managing a facebook page for my profesional self
+# -com
+A github project to manage
+- cristinasantamarina.com
+- my facebook page
+- my twitter feed
+
 
 
